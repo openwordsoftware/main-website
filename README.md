@@ -1,2 +1,0 @@
-# openwordsoftware.com
-Remove this
