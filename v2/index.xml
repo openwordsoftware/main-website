@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Message View</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Open Message View</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;vision&#34;&gt;Vision&lt;/h2&gt;&#xA;&lt;p&gt;This project was born out of a vision and desire to see Christian believers all over the world have access to search the sermons of William Branham in their own language. Very good tools and translations exist for English speakers but are more limited for those that speak other languages. The Message Hub platform was developed to support translation efforts worldwide, and it has been a great success. The next natural progression is developing advanced tools that take advantage of this platform and all the hard work that has gone into it and the translations. There are in existence mobile apps that utilize the Message Hub that support iOS and Android devices. While these app are very convenient and useful, those apps and mobile devices in general are by design more limited than full PC desktop and laptop computers. This project is aimed at fulfilling that need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download</title>
+      <link>http://localhost:1313/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/download/</guid>
+      <description>&lt;h1 id=&#34;download&#34;&gt;Download&lt;/h1&gt;&#xA;&lt;p&gt;Open Message View 2.0 is still in the testing phase. To get started click one of the download links below. The older version 1.0 that is compatible with Windows 7/8 is also linked below.&lt;/p&gt;&#xA;&lt;p&gt;The only difference between the installers is the infobases that are included and the default language that is selected.&lt;/p&gt;&#xA;&lt;p&gt;If you have questions, please email us at &lt;a href=&#34;mailto:info@openwordsoftware.com&#34;&gt;info@openwordsoftware.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;open-message-view-20-beta-windows-1011--mac-os&#34;&gt;Open Message View 2.0 Beta (Windows 10/11 &amp;amp; Mac OS)&lt;/h2&gt;&#xA;&lt;h4 id=&#34;system-requirements&#34;&gt;System Requirements&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Windows 11, Windows 10 (version 1607 “Anniversary Update” or newer), or Mac OSX v13+&lt;/li&gt;&#xA;&lt;li&gt;OpenMessageView uses your hard drive to store infobase files that are included in the installer and any that you might download. Because of this, actual disk space requirements will depend on the number of infobases you install. However, the largest infobases are still less than 100MB each&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;english-beta&#34;&gt;English Beta&lt;/h4&gt;&#xA;&lt;h6 id=&#34;warning-beta-software-is-intended-for-testing-and-feedback-purposes-only-it-is-still-under-development-and-has-not-undergone-thorough-testing-this-means-it-may-contain-bugs-glitches-and-unfinished-features&#34;&gt;Warning! Beta software is intended for testing and feedback purposes only. It is still under development and has not undergone thorough testing. This means it may contain bugs, glitches, and unfinished features.&lt;/h6&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://download.com&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/DownloadButtonSm20.png&#34; alt=&#34;Download&#34;&gt;Click to download&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
